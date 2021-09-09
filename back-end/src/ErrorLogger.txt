@@ -1,0 +1,214 @@
+SyntaxError: Unexpected token } in JSON at position 34
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\saiteja\Desktop\Assignment\back-end\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\saiteja\Desktop\Assignment\back-end\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\saiteja\Desktop\Assignment\back-end\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\saiteja\Desktop\Assignment\back-end\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\saiteja\Desktop\Assignment\back-end\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1252:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:46:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: [object Object]
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:18:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:18:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:52:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: User with provided email or username is already exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:24:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Unable to delete the user or user may not exist.
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:58:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Getting Data Failed
+    at C:\Users\saiteja\Desktop\Assignment\back-end\src\model\CRUD.js:41:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

@@ -1,0 +1,1 @@
+db.React_Assignment.deleteOne({"email":"test@gmail.com"})
